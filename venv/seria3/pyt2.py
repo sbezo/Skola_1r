@@ -9,3 +9,5 @@ while v >= u:
     print("prve cislo musi byt vacsie, skus este raz")
 
 print(" prvé pytagorejske cislo je ", a, ", druhé je ", b, " a tretie je ", c)
+
+#test
